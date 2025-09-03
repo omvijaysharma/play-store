@@ -31,7 +31,7 @@ Links to the privacy policies of third-party service providers used by the app:
 ## Ads & Consent
 - The app may show personalized or non-personalized ads based on Google AdMob settings.  
 - No age or personal data is collected from the user to target ads.  
-- Rewarded ads must be watched fully to unlock features (e.g., Skip Level, 50:50 lifeline).
+- Rewarded ads must be watched fully to unlock features (e.g., Skip Level, 50:50).
 
 ## Changes to This Privacy Policy
 I may update this Privacy Policy from time to time.  
